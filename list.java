@@ -9,4 +9,7 @@ hoooo
 woooo
 joooo
 thoooo
-prof 
+prof
+man
+dan
+tan
